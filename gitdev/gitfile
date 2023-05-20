@@ -1,0 +1,10 @@
+PS C:\Users\Owner\Downloads\repo1> git config --global user.name "ken-cisco" 
+PS C:\Users\Owner\Downloads\repo1> git config --global user.email "kennedy.okafor@ieee.orgo" 
+PS C:\Users\Owner\Downloads\repo1>
+PS C:\Users\Owner\Downloads\repo1> git init
+S C:\Users\Owner\Downloads\REPO> git clone https://github.com/ken-cisco/Faith_Dev.git
+PS C:\Users\Owner\Downloads\REPO> cd Faith_Dev
+PS C:\Users\Owner\Downloads\REPO\Faith_Dev> git branch test_1  
+PS C:\Users\Owner\Downloads\REPO\Faith_Dev> git checkout test_1
+Switched to branch 'test_1'
+PS C:\Users\Owner\Downloads\REPO\Faith_Dev> git branch 
